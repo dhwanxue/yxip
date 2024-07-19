@@ -1,0 +1,172 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+47.242.17.250,80,80,false,HKG,Asia Pacific,Hong Kong,109,8.71
+8.222.214.231,80,80,false,SIN,Asia Pacific,Singapore,284,7.29
+47.236.149.107,80,80,false,SIN,Asia Pacific,Singapore,172,5.66
+47.236.145.85,80,80,false,SIN,Asia Pacific,Singapore,174,5.28
+47.236.93.176,80,80,false,SIN,Asia Pacific,Singapore,355,4.59
+8.219.163.195,80,80,false,SIN,Asia Pacific,Singapore,177,4.08
+8.219.78.188,80,80,false,SIN,Asia Pacific,Singapore,260,3.28
+8.219.104.37,80,80,false,SIN,Asia Pacific,Singapore,579,2.87
+47.237.125.8,80,80,false,SIN,Asia Pacific,Singapore,266,2.65
+47.239.12.227,80,443,true,SIN,Asia Pacific,Singapore,82,2.45
+47.237.94.140,80,80,false,SIN,Asia Pacific,Singapore,120,2.44
+8.219.111.175,80,80,false,SIN,Asia Pacific,Singapore,241,2.35
+8.219.87.30,80,80,false,SIN,Asia Pacific,Singapore,125,2.26
+8.218.222.36,80,80,false,HKG,Asia Pacific,Hong Kong,87,1.95
+47.242.176.237,80,80,false,HKG,Asia Pacific,Hong Kong,47,1.94
+8.140.56.136,80,80,false,NRT,Asia Pacific,Tokyo,116,1.89
+47.236.232.148,80,80,false,SIN,Asia Pacific,Singapore,368,1.82
+8.218.22.210,80,80,false,HKG,Asia Pacific,Hong Kong,87,1.75
+47.237.8.82,80,0,false,SIN,Asia Pacific,Singapore,251,1.74
+8.217.251.62,80,80,false,HKG,Asia Pacific,Hong Kong,98,1.59
+8.210.55.134,80,80,false,HKG,Asia Pacific,Hong Kong,86,1.54
+8.210.146.108,80,80,false,HKG,Asia Pacific,Hong Kong,41,1.49
+8.217.121.207,80,80,false,HKG,Asia Pacific,Hong Kong,82,1.48
+47.76.254.36,80,443,true,SIN,Asia Pacific,Singapore,86,1.46
+8.217.149.28,80,80,false,HKG,Asia Pacific,Hong Kong,89,1.46
+8.218.211.17,80,80,false,HKG,Asia Pacific,Hong Kong,94,1.41
+8.218.142.253,80,80,false,HKG,Asia Pacific,Hong Kong,92,1.41
+47.245.105.224,80,80,false,SIN,Asia Pacific,Singapore,290,1.38
+47.76.159.146,80,80,false,HKG,Asia Pacific,Hong Kong,96,1.30
+8.218.2.181,80,80,false,HKG,Asia Pacific,Hong Kong,80,1.28
+47.236.80.110,80,80,false,SIN,Asia Pacific,Singapore,173,1.22
+47.243.206.150,80,80,false,HKG,Asia Pacific,Hong Kong,47,1.19
+47.242.36.78,80,80,false,HKG,Asia Pacific,Hong Kong,92,1.19
+47.236.205.188,80,80,false,SIN,Asia Pacific,Singapore,565,1.18
+47.243.173.187,80,80,false,HKG,Asia Pacific,Hong Kong,90,1.13
+8.219.210.57,80,80,false,SIN,Asia Pacific,Singapore,167,1.10
+8.219.99.169,80,80,false,SIN,Asia Pacific,Singapore,586,1.05
+8.210.66.190,80,80,false,HKG,Asia Pacific,Hong Kong,55,1.03
+47.243.234.9,80,80,false,HKG,Asia Pacific,Hong Kong,76,1.02
+47.243.183.127,80,80,false,HKG,Asia Pacific,Hong Kong,86,0.98
+8.217.145.40,80,80,false,HKG,Asia Pacific,Hong Kong,92,0.96
+47.242.157.96,80,80,false,HKG,Asia Pacific,Hong Kong,55,0.94
+8.218.136.25,80,80,false,HKG,Asia Pacific,Hong Kong,94,0.91
+8.218.85.128,80,80,false,HKG,Asia Pacific,Hong Kong,116,0.91
+8.218.65.237,80,80,false,HKG,Asia Pacific,Hong Kong,91,0.81
+47.242.155.183,80,80,false,HKG,Asia Pacific,Hong Kong,81,0.78
+47.236.169.141,80,80,false,SIN,Asia Pacific,Singapore,174,0.70
+47.237.95.156,80,80,false,SIN,Asia Pacific,Singapore,124,0.70
+8.218.3.12,80,80,false,HKG,Asia Pacific,Hong Kong,87,0.66
+47.237.100.206,80,80,false,SIN,Asia Pacific,Singapore,578,0.63
+47.76.32.108,80,80,false,HKG,Asia Pacific,Hong Kong,103,0.61
+34.49.212.232,80,80,false,LAX,North America,Los Angeles,385,0.59
+8.218.201.73,80,80,false,HKG,Asia Pacific,Hong Kong,92,0.57
+8.219.0.48,80,80,false,SIN,Asia Pacific,Singapore,143,0.53
+8.219.50.180,80,80,false,SIN,Asia Pacific,Singapore,262,0.52
+34.36.237.86,80,80,false,HKG,Asia Pacific,Hong Kong,135,0.50
+47.236.172.71,80,80,false,SIN,Asia Pacific,Singapore,364,0.49
+8.219.0.162,80,80,false,SIN,Asia Pacific,Singapore,118,0.47
+47.245.86.230,80,80,false,SIN,Asia Pacific,Singapore,583,0.46
+52.57.229.96,80,80,false,FRA,Europe,Frankfurt,424,0.44
+8.219.66.156,80,80,false,NRT,Asia Pacific,Tokyo,419,0.43
+35.200.202.118,80,80,false,BOM,Asia Pacific,Mumbai,182,0.42
+47.237.84.173,80,80,false,SIN,Asia Pacific,Singapore,117,0.39
+47.236.75.152,80,80,false,SIN,Asia Pacific,Singapore,346,0.37
+47.237.92.26,80,80,false,SIN,Asia Pacific,Singapore,251,0.35
+8.222.146.222,80,80,false,SIN,Asia Pacific,Singapore,125,0.33
+47.236.171.205,80,80,false,SIN,Asia Pacific,Singapore,348,0.33
+47.243.42.219,80,80,false,HKG,Asia Pacific,Hong Kong,53,0.32
+8.219.209.14,80,80,false,SIN,Asia Pacific,Singapore,178,0.32
+8.218.132.209,80,443,true,SIN,Asia Pacific,Singapore,95,0.31
+8.222.187.4,80,80,false,SIN,Asia Pacific,Singapore,131,0.29
+8.219.114.201,80,80,false,SIN,Asia Pacific,Singapore,119,0.26
+47.236.83.239,80,80,false,SIN,Asia Pacific,Singapore,351,0.26
+47.236.166.131,80,80,false,SIN,Asia Pacific,Singapore,344,0.26
+47.236.144.208,80,80,false,SIN,Asia Pacific,Singapore,350,0.26
+34.111.135.19,80,80,false,LAX,North America,Los Angeles,306,0.24
+47.237.14.220,80,80,false,SIN,Asia Pacific,Singapore,260,0.23
+47.236.123.133,80,80,false,SIN,Asia Pacific,Singapore,361,0.21
+192.3.235.89,80,80,false,DFW,North America,Dallas,451,0.20
+47.57.13.107,80,80,false,HKG,Asia Pacific,Hong Kong,116,0.20
+47.236.144.196,80,80,false,SIN,Asia Pacific,Singapore,351,0.19
+47.76.245.164,80,443,true,SIN,Asia Pacific,Singapore,75,0.19
+47.236.97.90,80,80,false,SIN,Asia Pacific,Singapore,337,0.19
+47.236.10.182,80,80,false,SIN,Asia Pacific,Singapore,178,0.19
+23.94.136.126,80,443,true,ORD,North America,Chicago,519,0.18
+8.219.153.237,80,80,false,NRT,Asia Pacific,Tokyo,253,0.18
+47.238.49.85,80,443,true,SIN,Asia Pacific,Singapore,86,0.18
+154.23.241.5,80,80,false,LAX,North America,Los Angeles,364,0.17
+47.236.174.206,80,80,false,SIN,Asia Pacific,Singapore,347,0.15
+34.105.49.234,80,80,false,SEA,North America,Seattle,527,0.12
+47.238.138.232,80,443,true,CGK,Asia Pacific,Jakarta,107,0.08
+18.216.55.100,80,80,false,ORD,North America,Chicago,464,0.07
+170.106.35.96,80,80,false,IAD,North America,Ashburn,525,0.06
+118.26.39.145,80,80,false,LAX,North America,Los Angeles,373,0.06
+47.238.36.250,80,443,true,SIN,Asia Pacific,Singapore,80,0.05
+51.141.162.228,80,80,false,SEA,North America,Seattle,423,0.05
+20.119.73.200,80,80,false,IAD,North America,Ashburn,560,0.02
+35.176.229.223,80,443,true,LHR,Europe,London,230,0.00
+13.40.61.52,80,443,true,LHR,Europe,London,215,0.00
+3.9.144.231,80,443,true,LHR,Europe,London,471,0.00
+204.110.220.218,80,443,true,SEA,North America,Seattle,217,0.00
+18.171.208.181,80,443,true,LHR,Europe,London,471,0.00
+204.110.220.227,80,443,true,SEA,North America,Seattle,205,0.00
+204.110.223.129,80,443,true,ORD,North America,Chicago,233,0.00
+18.169.183.4,80,443,true,LHR,Europe,London,471,0.00
+52.234.252.219,80,80,false,IAD,North America,Ashburn,530,0.00
+13.90.243.171,80,80,false,IAD,North America,Ashburn,495,0.00
+54.176.142.183,80,443,true,SJC,North America,San Jose,401,0.00
+52.191.14.247,80,80,false,IAD,North America,Ashburn,537,0.00
+67.226.222.67,80,443,true,ORD,North America,Chicago,248,0.00
+204.110.220.177,80,443,true,SEA,North America,Seattle,207,0.00
+40.71.57.131,80,80,false,IAD,North America,Ashburn,551,0.00
+47.236.121.23,80,80,false,SIN,Asia Pacific,Singapore,352,0.00
+52.53.250.40,80,443,true,SJC,North America,San Jose,359,0.00
+204.110.223.209,80,443,true,ORD,North America,Chicago,227,0.00
+54.219.130.94,80,443,true,SJC,North America,San Jose,394,0.00
+204.110.220.210,80,443,true,SEA,North America,Seattle,219,0.00
+13.56.139.126,80,443,true,SJC,North America,San Jose,408,0.00
+204.110.223.53,80,443,true,ORD,North America,Chicago,233,0.00
+204.110.223.140,80,443,true,ORD,North America,Chicago,249,0.00
+54.177.163.204,80,443,true,SJC,North America,San Jose,431,0.00
+35.84.181.134,80,443,true,SEA,North America,Seattle,405,0.00
+13.57.241.143,80,443,true,SJC,North America,San Jose,438,0.00
+204.110.220.167,80,443,true,SEA,North America,Seattle,203,0.00
+52.10.78.7,80,443,true,SEA,North America,Seattle,401,0.00
+204.110.220.175,80,443,true,SEA,North America,Seattle,201,0.00
+40.71.57.37,80,80,false,IAD,North America,Ashburn,546,0.00
+3.10.20.185,80,443,true,LHR,Europe,London,460,0.00
+204.110.223.25,80,443,true,ORD,North America,Chicago,246,0.00
+35.167.93.200,80,443,true,SEA,North America,Seattle,209,0.00
+13.56.251.164,80,443,true,SJC,North America,San Jose,386,0.00
+204.110.221.22,80,443,true,SEA,North America,Seattle,417,0.00
+204.110.220.48,80,443,true,SEA,North America,Seattle,207,0.00
+54.153.96.188,80,443,true,SJC,North America,San Jose,382,0.00
+204.110.220.120,80,443,true,SEA,North America,Seattle,210,0.00
+204.110.220.220,80,443,true,SEA,North America,Seattle,212,0.00
+204.110.223.230,80,443,true,ORD,North America,Chicago,231,0.00
+204.110.220.58,80,443,true,SEA,North America,Seattle,203,0.00
+204.110.223.120,80,443,true,ORD,North America,Chicago,235,0.00
+18.171.206.250,80,443,true,LHR,Europe,London,429,0.00
+172.174.249.255,80,80,false,IAD,North America,Ashburn,273,0.00
+204.110.223.206,80,443,true,ORD,North America,Chicago,234,0.00
+67.226.222.104,80,443,true,ORD,North America,Chicago,234,0.00
+204.110.220.3,80,443,true,SEA,North America,Seattle,226,0.00
+67.226.222.85,80,443,true,ORD,North America,Chicago,248,0.00
+204.110.223.221,80,443,true,ORD,North America,Chicago,238,0.00
+3.9.223.59,80,443,true,LHR,Europe,London,443,0.00
+67.226.222.38,80,443,true,ORD,North America,Chicago,240,0.00
+20.204.43.57,80,443,false,BOM,Asia Pacific,Mumbai,264,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,Mumbai,549,0.00
+204.110.223.106,80,443,true,ORD,North America,Chicago,246,0.00
+40.71.73.14,80,80,false,IAD,North America,Ashburn,548,0.00
+67.226.222.122,80,443,true,ORD,North America,Chicago,257,0.00
+67.226.222.132,80,443,true,ORD,North America,Chicago,225,0.00
+204.110.220.1,80,443,true,SEA,North America,Seattle,203,0.00
+3.101.110.90,80,443,true,SJC,North America,San Jose,435,0.00
+18.171.158.63,80,443,true,LHR,Europe,London,234,0.00
+35.182.7.190,80,443,true,YUL,North America,Montréal,541,0.00
+47.245.84.124,80,80,false,SIN,Asia Pacific,Singapore,177,0.00
+204.110.221.243,80,443,true,SEA,North America,Seattle,409,0.00
+8.219.177.205,80,80,false,SIN,Asia Pacific,Singapore,180,0.00
+198.46.193.167,80,80,false,DFW,North America,Dallas,438,0.00
+204.110.221.75,80,443,true,SEA,North America,Seattle,413,0.00
+8.219.11.158,80,80,false,SIN,Asia Pacific,Singapore,259,0.00
+204.110.220.80,80,443,true,SEA,North America,Seattle,211,0.00
+47.250.36.113,80,443,true,SIN,Asia Pacific,Singapore,286,0.00
+47.236.170.54,80,80,false,SIN,Asia Pacific,Singapore,342,0.00
+67.226.222.127,80,443,true,ORD,North America,Chicago,231,0.00
+47.236.117.48,80,80,false,SIN,Asia Pacific,Singapore,163,0.00
+52.29.224.33,80,80,false,FRA,Europe,Frankfurt,207,0.00
+8.218.18.235,80,80,false,HKG,Asia Pacific,Hong Kong,97,0.00

@@ -1,0 +1,99 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+8.219.210.57,8080,0,false,SIN,Asia Pacific,Singapore,181,6.30
+8.222.249.190,8080,8080,false,SIN,Asia Pacific,Singapore,130,4.80
+47.236.80.110,8080,8080,false,SIN,Asia Pacific,Singapore,178,3.98
+8.218.243.95,8080,8080,false,HKG,Asia Pacific,Hong Kong,48,3.86
+8.219.67.133,8080,8080,false,SIN,Asia Pacific,Singapore,130,3.56
+8.219.104.37,8080,8080,false,SIN,Asia Pacific,Singapore,285,3.03
+8.218.188.129,8080,8080,false,HKG,Asia Pacific,Hong Kong,50,2.95
+8.219.200.145,8080,8080,false,SIN,Asia Pacific,Singapore,325,2.10
+8.217.248.220,8080,8080,false,HKG,Asia Pacific,Hong Kong,80,2.06
+47.236.121.23,8080,8080,false,SIN,Asia Pacific,Singapore,175,1.97
+8.218.3.12,8080,8080,false,HKG,Asia Pacific,Hong Kong,41,1.91
+47.243.86.79,8080,8080,false,HKG,Asia Pacific,Hong Kong,45,1.75
+8.217.207.60,8080,8080,false,HKG,Asia Pacific,Hong Kong,93,1.69
+8.218.11.90,8080,8080,false,HKG,Asia Pacific,Hong Kong,101,1.68
+47.236.10.182,8080,8080,false,SIN,Asia Pacific,Singapore,178,1.65
+8.218.174.118,8080,8080,false,HKG,Asia Pacific,Hong Kong,95,1.62
+8.219.198.139,8080,8080,false,SIN,Asia Pacific,Singapore,353,1.62
+8.210.146.108,8080,8080,false,HKG,Asia Pacific,Hong Kong,49,1.58
+8.210.107.246,8080,8080,false,HKG,Asia Pacific,Hong Kong,48,1.52
+47.245.86.230,8080,8080,false,SIN,Asia Pacific,Singapore,293,1.43
+8.219.100.168,8080,8080,false,SIN,Asia Pacific,Singapore,138,1.42
+8.222.134.170,8080,8080,false,SIN,Asia Pacific,Singapore,253,1.40
+8.219.202.130,8080,8080,false,SIN,Asia Pacific,Singapore,358,1.40
+47.243.42.219,8080,8080,false,HKG,Asia Pacific,Hong Kong,48,1.30
+8.217.251.62,8080,8080,false,HKG,Asia Pacific,Hong Kong,44,1.29
+8.210.9.129,8080,8080,false,HKG,Asia Pacific,Hong Kong,79,1.19
+8.218.211.17,8080,8080,false,HKG,Asia Pacific,Hong Kong,42,1.15
+8.210.55.134,8080,8080,false,HKG,Asia Pacific,Hong Kong,41,1.14
+8.210.175.109,8080,8080,false,HKG,Asia Pacific,Hong Kong,96,1.13
+47.243.234.9,8080,8080,false,HKG,Asia Pacific,Hong Kong,43,1.12
+18.185.51.67,8080,443,true,FRA,Europe,Frankfurt,441,1.11
+47.237.95.140,8080,8080,false,SIN,Asia Pacific,Singapore,134,1.11
+47.242.176.237,8080,8080,false,HKG,Asia Pacific,Hong Kong,50,1.11
+47.236.17.193,8080,8080,false,SIN,Asia Pacific,Singapore,358,1.10
+8.217.250.5,8080,8080,false,HKG,Asia Pacific,Hong Kong,81,1.10
+47.237.92.26,8080,8080,false,SIN,Asia Pacific,Singapore,125,1.10
+8.217.121.207,8080,8080,false,HKG,Asia Pacific,Hong Kong,46,1.09
+47.242.171.94,8080,8080,false,HKG,Asia Pacific,Hong Kong,97,1.08
+47.236.169.141,8080,8080,false,SIN,Asia Pacific,Singapore,174,1.03
+8.219.60.54,8080,8080,false,SIN,Asia Pacific,Singapore,262,0.99
+47.243.203.119,8080,8080,false,HKG,Asia Pacific,Hong Kong,51,0.98
+8.218.142.253,8080,8080,false,HKG,Asia Pacific,Hong Kong,52,0.97
+47.242.157.96,8080,8080,false,HKG,Asia Pacific,Hong Kong,46,0.97
+47.242.232.14,8080,8080,false,HKG,Asia Pacific,Hong Kong,89,0.90
+8.218.222.36,8080,8080,false,HKG,Asia Pacific,Hong Kong,47,0.89
+8.210.245.224,8080,8080,false,HKG,Asia Pacific,Hong Kong,79,0.84
+47.242.234.127,8080,8080,false,HKG,Asia Pacific,Hong Kong,92,0.82
+8.210.101.157,8080,8080,false,HKG,Asia Pacific,Hong Kong,50,0.82
+47.237.94.140,8080,8080,false,SIN,Asia Pacific,Singapore,125,0.80
+8.210.207.214,8080,8080,false,HKG,Asia Pacific,Hong Kong,87,0.77
+47.237.81.112,8080,8080,false,SIN,Asia Pacific,Singapore,133,0.77
+47.242.59.216,8080,8080,false,HKG,Asia Pacific,Hong Kong,47,0.75
+47.76.159.146,8080,8080,false,HKG,Asia Pacific,Hong Kong,48,0.75
+18.171.209.142,8080,443,true,LHR,Europe,London,484,0.74
+8.218.65.237,8080,8080,false,HKG,Asia Pacific,Hong Kong,53,0.71
+47.242.252.237,8080,8080,false,HKG,Asia Pacific,Hong Kong,104,0.61
+8.219.87.30,8080,8080,false,SIN,Asia Pacific,Singapore,130,0.59
+47.243.139.243,8080,8080,false,HKG,Asia Pacific,Hong Kong,106,0.55
+47.237.8.82,8080,8080,false,SIN,Asia Pacific,Singapore,121,0.55
+47.237.95.156,8080,8080,false,SIN,Asia Pacific,Singapore,127,0.54
+23.94.136.126,8080,443,true,ORD,North America,Chicago,274,0.53
+51.120.112.38,8080,443,true,CPH,Europe,Copenhagen,509,0.52
+8.222.237.131,8080,8080,false,SIN,Asia Pacific,Singapore,126,0.51
+47.236.166.131,8080,8080,false,SIN,Asia Pacific,Singapore,182,0.51
+4.242.220.94,8080,443,true,SJC,North America,San Jose,462,0.47
+47.237.84.173,8080,8080,false,SIN,Asia Pacific,Singapore,133,0.47
+8.210.39.96,8080,8080,false,HKG,Asia Pacific,Hong Kong,51,0.46
+47.242.17.250,8080,8080,false,HKG,Asia Pacific,Hong Kong,46,0.41
+18.133.253.214,8080,443,true,LHR,Europe,London,443,0.39
+47.236.180.24,8080,8080,false,SIN,Asia Pacific,Singapore,179,0.38
+47.236.170.225,8080,8080,false,SIN,Asia Pacific,Singapore,187,0.34
+8.219.0.48,8080,8080,false,SIN,Asia Pacific,Singapore,136,0.34
+8.219.77.222,8080,8080,false,SIN,Asia Pacific,Singapore,130,0.33
+8.222.193.65,8080,8080,false,SIN,Asia Pacific,Singapore,138,0.31
+16.171.255.107,8080,443,true,ARN,Europe,Stockholm,493,0.28
+8.219.83.201,8080,8080,false,SIN,Asia Pacific,Singapore,134,0.28
+47.236.172.71,8080,8080,false,SIN,Asia Pacific,Singapore,183,0.27
+47.237.125.8,8080,8080,false,SIN,Asia Pacific,Singapore,138,0.25
+8.222.137.192,8080,8080,false,SIN,Asia Pacific,Singapore,132,0.24
+47.237.100.206,8080,8080,false,SIN,Asia Pacific,Singapore,279,0.24
+47.236.167.231,8080,8080,false,SIN,Asia Pacific,Singapore,178,0.23
+47.236.123.133,8080,8080,false,SIN,Asia Pacific,Singapore,178,0.22
+47.236.164.215,8080,8080,false,SIN,Asia Pacific,Singapore,178,0.21
+3.121.196.178,8080,443,true,FRA,Europe,Frankfurt,406,0.18
+47.236.5.223,8080,8080,false,SIN,Asia Pacific,Singapore,365,0.18
+47.236.104.11,8080,8080,false,SIN,Asia Pacific,Singapore,178,0.17
+8.219.191.40,8080,8080,false,SIN,Asia Pacific,Singapore,179,0.15
+8.219.210.64,8080,8080,false,SIN,Asia Pacific,Singapore,181,0.15
+3.9.18.106,8080,443,true,LHR,Europe,London,471,0.12
+3.72.20.165,8080,443,true,FRA,Europe,Frankfurt,459,0.10
+8.222.244.192,8080,8080,false,SIN,Asia Pacific,Singapore,275,0.09
+18.168.151.36,8080,443,true,LHR,Europe,London,439,0.05
+18.130.254.28,8080,443,true,LHR,Europe,London,431,0.05
+47.237.14.220,8080,8080,false,SIN,Asia Pacific,Singapore,128,0.00
+47.245.114.163,8080,8080,false,SIN,Asia Pacific,Singapore,89,0.00
+13.36.56.94,8080,443,true,CDG,Europe,Paris,398,0.00
+8.222.179.231,8080,8080,false,SIN,Asia Pacific,Singapore,130,0.00
+8.222.208.38,8080,8080,false,SIN,Asia Pacific,Singapore,132,0.00

@@ -1,0 +1,60 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+8.219.163.195,2086,2086,false,SIN,Asia Pacific,Singapore,177,3.19
+8.219.107.135,2086,2086,false,SIN,Asia Pacific,Singapore,137,3.11
+8.210.66.190,2086,2086,false,HKG,Asia Pacific,Hong Kong,52,2.59
+8.219.78.1,2086,2086,false,SIN,Asia Pacific,Singapore,139,2.55
+8.222.156.242,2086,2086,false,SIN,Asia Pacific,Singapore,122,2.47
+8.210.107.246,2086,2086,false,HKG,Asia Pacific,Hong Kong,100,2.25
+47.243.206.150,2086,2086,false,HKG,Asia Pacific,Hong Kong,43,2.15
+8.219.110.81,2086,2086,false,SIN,Asia Pacific,Singapore,240,2.02
+8.219.11.158,2086,2086,false,SIN,Asia Pacific,Singapore,121,1.96
+47.236.253.41,2086,2086,false,SIN,Asia Pacific,Singapore,163,1.93
+47.236.144.48,2086,2086,false,SIN,Asia Pacific,Singapore,161,1.73
+47.243.86.79,2086,2086,false,HKG,Asia Pacific,Hong Kong,74,1.69
+47.236.164.215,2086,2086,false,SIN,Asia Pacific,Singapore,339,1.60
+47.243.234.9,2086,2086,false,HKG,Asia Pacific,Hong Kong,31,1.54
+8.219.210.57,2086,2086,false,SIN,Asia Pacific,Singapore,184,1.45
+8.219.191.40,2086,2086,false,SIN,Asia Pacific,Singapore,329,1.41
+47.236.237.90,2086,2086,false,SIN,Asia Pacific,Singapore,180,1.34
+47.76.159.146,2086,2086,false,HKG,Asia Pacific,Hong Kong,46,1.33
+8.219.191.110,2086,2086,false,SIN,Asia Pacific,Singapore,327,1.28
+47.76.32.108,2086,2086,false,HKG,Asia Pacific,Hong Kong,49,1.26
+47.236.9.152,2086,2086,false,SIN,Asia Pacific,Singapore,338,1.16
+47.236.104.11,2086,2086,false,SIN,Asia Pacific,Singapore,176,1.14
+47.243.183.127,2086,2086,false,HKG,Asia Pacific,Hong Kong,42,1.08
+8.218.85.128,2086,2086,false,HKG,Asia Pacific,Hong Kong,57,0.98
+47.243.203.119,2086,2086,false,HKG,Asia Pacific,Hong Kong,46,0.97
+8.222.137.192,2086,2086,false,SIN,Asia Pacific,Singapore,246,0.93
+8.219.194.170,2086,2086,false,SIN,Asia Pacific,Singapore,342,0.84
+47.242.79.71,2086,2086,false,HKG,Asia Pacific,Hong Kong,94,0.83
+47.243.27.217,2086,2086,false,HKG,Asia Pacific,Hong Kong,109,0.71
+8.219.161.129,2086,2086,false,SIN,Asia Pacific,Singapore,317,0.59
+8.218.204.128,2086,2086,false,HKG,Asia Pacific,Hong Kong,92,0.58
+47.237.95.140,2086,2086,false,SIN,Asia Pacific,Singapore,130,0.57
+8.219.126.240,2086,2086,false,SIN,Asia Pacific,Singapore,268,0.51
+8.222.165.117,2086,2086,false,SIN,Asia Pacific,Singapore,127,0.50
+8.219.67.133,2086,2086,false,SIN,Asia Pacific,Singapore,123,0.46
+47.237.100.206,2086,2086,false,SIN,Asia Pacific,Singapore,283,0.45
+47.237.11.182,2086,2086,false,SIN,Asia Pacific,Singapore,278,0.44
+8.219.0.48,2086,2086,false,SIN,Asia Pacific,Singapore,127,0.44
+8.222.249.190,2086,2086,false,SIN,Asia Pacific,Singapore,135,0.42
+47.242.17.250,2086,2086,false,HKG,Asia Pacific,Hong Kong,50,0.41
+47.237.82.15,2086,2086,false,SIN,Asia Pacific,Singapore,130,0.37
+8.219.87.30,2086,2086,false,SIN,Asia Pacific,Singapore,118,0.37
+8.222.237.131,2086,2086,false,SIN,Asia Pacific,Singapore,272,0.36
+47.245.105.224,2086,2086,false,SIN,Asia Pacific,Singapore,283,0.36
+47.236.123.133,2086,2086,false,SIN,Asia Pacific,Singapore,165,0.36
+8.219.120.87,2086,2086,false,SIN,Asia Pacific,Singapore,257,0.35
+8.219.104.37,2086,2086,false,SIN,Asia Pacific,Singapore,274,0.35
+47.236.149.107,2086,2086,false,SIN,Asia Pacific,Singapore,175,0.28
+47.236.170.225,2086,2086,false,SIN,Asia Pacific,Singapore,183,0.26
+8.219.83.201,2086,2086,false,SIN,Asia Pacific,Singapore,263,0.22
+8.219.97.50,2086,2086,false,SIN,Asia Pacific,Singapore,264,0.22
+8.219.229.190,2086,2086,false,SIN,Asia Pacific,Singapore,176,0.22
+8.219.193.202,2086,2086,false,SIN,Asia Pacific,Singapore,177,0.21
+8.219.66.156,2086,2086,false,NRT,Asia Pacific,Tokyo,203,0.20
+164.152.26.70,2086,443,true,ORD,North America,Chicago,540,0.20
+8.219.139.13,2086,2086,false,SIN,Asia Pacific,Singapore,177,0.18
+47.245.114.163,2086,2086,false,SIN,Asia Pacific,Singapore,92,0.00
+47.237.81.112,2086,2086,false,SIN,Asia Pacific,Singapore,269,0.00
+8.219.0.162,2086,2086,false,SIN,Asia Pacific,Singapore,130,0.00
