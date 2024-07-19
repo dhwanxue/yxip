@@ -1,0 +1,17 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+51.120.12.12,8443,443,true,CPH,Europe,Copenhagen,509,2.79
+96.0.24.167,2053,443,true,CPH,Europe,Copenhagen,496,2.11
+51.20.34.64,443,443,true,CPH,Europe,Copenhagen,469,1.21
+185.7.33.49,443,443,true,CPH,Europe,Copenhagen,512,1.12
+4.235.113.9,2053,443,true,CPH,Europe,Copenhagen,508,0.86
+217.28.129.244,443,443,true,CPH,Europe,Copenhagen,623,0.81
+51.120.122.42,2083,443,true,CPH,Europe,Copenhagen,505,0.58
+13.53.206.75,443,443,true,CPH,Europe,Copenhagen,489,0.34
+51.120.112.38,8080,443,true,CPH,Europe,Copenhagen,503,0.34
+51.120.4.68,2087,443,true,CPH,Europe,Copenhagen,502,0.22
+158.179.203.23,443,443,true,CPH,Europe,Copenhagen,588,0.21
+51.120.4.68,8443,443,true,CPH,Europe,Copenhagen,506,0.20
+51.120.12.12,2087,443,true,CPH,Europe,Copenhagen,494,0.18
+51.120.112.38,2087,443,true,CPH,Europe,Copenhagen,501,0.13
+163.123.143.209,443,443,true,CPH,Europe,Copenhagen,632,0.07
+89.36.161.45,443,443,true,CPH,Europe,Copenhagen,738,0.01
