@@ -1,0 +1,35 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+47.236.125.62,2087,2087,true,NRT,Asia Pacific,Tokyo,219,3.37
+47.237.86.185,2087,2087,true,SIN,Asia Pacific,Singapore,85,2.81
+47.236.180.51,2087,2087,true,SIN,Asia Pacific,Singapore,125,2.19
+47.236.145.85,2087,2087,true,SIN,Asia Pacific,Singapore,140,2.01
+47.236.130.95,2087,2087,true,SIN,Asia Pacific,Singapore,140,1.90
+47.236.180.24,2087,2087,true,SIN,Asia Pacific,Singapore,133,1.79
+47.236.167.231,2087,2087,true,SIN,Asia Pacific,Singapore,132,1.66
+47.236.237.90,2087,2087,true,SIN,Asia Pacific,Singapore,141,1.62
+47.236.75.152,2087,2087,true,SIN,Asia Pacific,Singapore,136,1.38
+47.237.125.8,2087,2087,true,SIN,Asia Pacific,Singapore,96,1.35
+47.236.253.41,2087,2087,true,SIN,Asia Pacific,Singapore,130,1.32
+47.237.81.112,2087,2087,true,SIN,Asia Pacific,Singapore,85,1.27
+47.236.189.92,2087,2087,true,SIN,Asia Pacific,Singapore,137,1.11
+47.236.80.110,2087,2087,true,SIN,Asia Pacific,Singapore,133,1.02
+47.76.178.146,2087,2087,true,HKG,Asia Pacific,Hong Kong,838,1.01
+47.237.121.38,2087,2087,true,SIN,Asia Pacific,Singapore,85,0.93
+35.200.25.49,2087,443,true,NRT,Asia Pacific,Tokyo,176,0.84
+47.76.77.103,2087,2087,true,HKG,Asia Pacific,Hong Kong,193,0.82
+47.236.118.216,2087,2087,true,SIN,Asia Pacific,Singapore,133,0.72
+47.236.146.249,2087,2087,true,SIN,Asia Pacific,Singapore,137,0.54
+47.237.95.140,2087,2087,true,SIN,Asia Pacific,Singapore,89,0.46
+47.237.8.82,2087,2087,true,SIN,Asia Pacific,Singapore,89,0.45
+47.236.165.25,2087,2087,true,SIN,Asia Pacific,Singapore,125,0.44
+47.237.94.140,2087,2087,true,SIN,Asia Pacific,Singapore,87,0.36
+20.199.40.76,2087,443,true,CDG,Europe,Paris,457,0.20
+20.251.129.181,2087,443,true,CPH,Europe,Copenhagen,501,0.19
+18.130.70.64,2087,443,true,LHR,Europe,London,434,0.18
+51.120.12.12,2087,443,true,CPH,Europe,Copenhagen,247,0.16
+52.56.213.90,2087,443,true,LHR,Europe,London,247,0.14
+3.252.77.56,2087,443,true,DUB,Europe,Dublin,484,0.14
+20.52.251.165,2087,443,true,FRA,Europe,Frankfurt,459,0.08
+35.180.148.158,2087,443,true,CDG,Europe,Paris,412,0.07
+51.120.112.38,2087,443,true,CPH,Europe,Copenhagen,253,0.01
+152.70.155.147,2087,0,true,LAX,North America,Los Angeles,219,0.00
