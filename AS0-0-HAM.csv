@@ -1,5 +1,0 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-91.239.148.133,443,443,true,FRA,Europe,Frankfurt,238,2.90
-91.239.148.53,443,443,true,FRA,Europe,Frankfurt,238,0.51
-91.239.148.31,443,443,true,FRA,Europe,Frankfurt,260,0.15
-91.239.148.126,443,443,true,FRA,Europe,Frankfurt,237,0.00
